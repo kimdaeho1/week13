@@ -1,19 +1,14 @@
 {
   "posts": [
     {
-      "id": "9668",
-      "title": "12312312312",
-      "content": "123123123123"
-    },
-    {
-      "id": "c518",
-      "title": "1412412412",
-      "content": "124124124"
-    },
-    {
       "id": "e894",
-      "title": "First Post",
-      "content": "This is First Post:"
+      "title": "컴포넌트",
+      "content": "각 컴포넌트의 재사용성이 높나요?"
+    },
+    {
+      "id": "2e19",
+      "title": "예외처리",
+      "content": "예외처리가 미흡한 부분은 없나요?"
     }
   ]
 }
